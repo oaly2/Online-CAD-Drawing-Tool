@@ -68,7 +68,7 @@ Designed for seamless integration into the **Excedify** website, it offers essen
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/2D-CAD-Drawing-Tool.git
+   git clone https://github.com/oaly2/Online-CAD-Drawing-Tool.git
 2. Navigate to the project directory: 
    ```bash  
    cd Online-CAD-Drawing-Tool
